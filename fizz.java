@@ -1,9 +1,7 @@
-//import java.util.Scanner;
 public class fizz {
     public static void main(String[] args){
         boolean x = true;
         int p = 0;
-        //Scanner inp = new Scanner(System.in);
         while (x){
             if (p < 101){
                 p++;
